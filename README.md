@@ -1,18 +1,17 @@
-## Getting Started
+# Java Studies
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository is a collection of individual classes and small scripts. Each file is designed to demonstrate a specific concept independently.
+It is a personal laboratory where I explore and practice the core concepts of Java. It contains various exercises and implementations created during my journey to master the language's syntax, logic, and Object-Oriented Programming (OOP) principles.
 
-## Folder Structure
+### Key Concepts Explored
 
-The workspace contains two folders by default, where:
+- **Core Java**: Variables, data types, and control flow (if/else, loops).
+- **Object-Oriented Programming (OOP)**: Classes, objects, inheritance, polymorphism, and encapsulation.
+- **Data Structures**: Lists, arrays, and collections.
+- **Exception Handling**: Try-catch blocks and custom exception logic.
+- **File I/O**: Reading and writing data.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Technologies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Java**: JDK 17
+- **IDE**: VS Code
